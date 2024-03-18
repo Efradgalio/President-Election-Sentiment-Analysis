@@ -35,6 +35,7 @@ Proyek ini bertujuan untuk melakukan analisis sentimen menggunakan data Twitter 
 ├── app_streamlit.py
 ├── notebook_eda.ipynb
 ├── notebook_modelling.ipynb
+├── President Election Sentiment Analysis.pdf
 └── README.md
 ```
 
@@ -53,6 +54,7 @@ Proyek ini bertujuan untuk melakukan analisis sentimen menggunakan data Twitter 
 - **app_streamlit.py (frontend)**: file Python yang berisi frontend aplikasi menggunakan Streamlit.
 - **notebook_eda.ipynb**: Notebook Jupyter yang berisi analisis eksplorasi data.
 - **notebook_modelling.ipynb**: Notebook Jupyter yang berisi proses pemodelan.
+- **President Election Sentiment Analysis.pdf**: Final Powerpoint terkait ringkasan dari keseluruhan proses serta hasil.
 - **README.md**: file yang berisi deskripsi proyek dan dokumentasi singkat.
 
 ## Model Terbaik
